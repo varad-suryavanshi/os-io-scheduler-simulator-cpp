@@ -1,0 +1,15 @@
+# Compiled files
+*.out
+*.o
+a.out
+
+# Log files
+*.log
+
+
+# OS generated
+.DS_Store
+
+# Backup or temporary files
+*~
+
