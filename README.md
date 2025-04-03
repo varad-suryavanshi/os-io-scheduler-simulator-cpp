@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 
-This project is a simulation of various **disk I/O scheduling algorithms**, implemented in C++ as part of an Operating Systems Lab (Lab 4). It models how different I/O schedulers handle a sequence of I/O requests, each with a specified arrival time and track number.
+This project is a simulation of various **disk I/O scheduling algorithms**, implemented in C++ as part of an Operating Systems Lab. It models how different I/O schedulers handle a sequence of I/O requests, each with a specified arrival time and track number.
 
 The simulation includes:
 - Request queue management
